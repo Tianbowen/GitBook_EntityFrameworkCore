@@ -1,2 +1,2 @@
-# GtiBook_EntityFrameworkCore
+# GitBook_EntityFrameworkCore
 gitbook
